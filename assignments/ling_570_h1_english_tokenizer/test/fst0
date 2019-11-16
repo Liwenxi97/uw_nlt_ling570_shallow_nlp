@@ -1,0 +1,7 @@
+FST FILE NAME: examples/fst0
+Input File Is: /dropbox/18-19/570/hw3/examples/ex
+"a" "a" "b" => *none* 0
+"a" "a" => "b" "b" 1
+"b" => *none* 0
+"a" "b" "a" => *none* 0
+"a" "c" => *none* 0

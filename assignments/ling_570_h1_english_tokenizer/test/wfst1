@@ -1,0 +1,6 @@
+FST FILE NAME: examples/wfst1
+Input File Is: /dropbox/18-19/570/hw3/examples/ex2
+"they" "can" "fish" => "PRO" "AUX" "NOUN" 0.693
+"they" "can" "take" "table" => *none* 0
+"they" "will" => *none* 0
+"can" "buy" => *none* 0
