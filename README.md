@@ -27,8 +27,8 @@ These techniques allow you to locate items of interest (e.g., product names, dia
 
 
 
-Course Schedule:
+![UW_NLT_Certificate](./images/UW_NLT_Certificate_RyanTimbrook.png)
 
-![Schedule](./images/schedule.png)
 
+#### [LING 570 - Shallow Processing Techniques for NLP](https://www.pce.uw.edu/courses/shallow-processing-techniques-for-natural-language-processing)
 
